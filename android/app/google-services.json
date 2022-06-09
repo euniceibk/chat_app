@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "270097575163",
+    "project_id": "chat-app-1c8e2",
+    "storage_bucket": "chat-app-1c8e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270097575163:android:fd2155d8684fbf0553145e",
+        "android_client_info": {
+          "package_name": "com.euniceibk.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270097575163-nq6mii1i0tesph97faunpn0l2gapprou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZW9m9DHcSzcH8FEpHpUnOAqs1IGQR-Uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270097575163-nq6mii1i0tesph97faunpn0l2gapprou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
